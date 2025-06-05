@@ -24,6 +24,6 @@
 **Final_project_Annual_Sales_Data.twb – Tableau workbook file with all dashboard elements (open with Tableau Desktop)**
 
 ## 🛠️ Tools Used:
-**Tableau for creating the dashboard**
+**Tableau for creating the dashboard**  
 **Excel/CSV (assumed source) for raw sales data**
 
